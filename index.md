@@ -1,8 +1,8 @@
-# Privacy Policy – GenZ AI Tutor (AskDiya)
+# Privacy Policy – Arivoli OET
 
 **Effective date:** 06 Jan 2026
 
-GenZ AI Tutor (“the App”) is operated by **GenzAI** (“we”, “our”, “us”).
+Arivoli OET (“the App”) is operated by **Arivoli Innovations** (“we”, “our”, “us”).
 This Privacy Policy explains how we collect, use, and share information when you use the App.
 
 ## Information we collect
@@ -55,4 +55,4 @@ The App is intended for educational use. If you are a parent/guardian and believ
 
 ## Contact us
 If you have questions, contact:
-**Email:** GenZAI@gmail.com
+**Email:** Arivoli@gmail.com
